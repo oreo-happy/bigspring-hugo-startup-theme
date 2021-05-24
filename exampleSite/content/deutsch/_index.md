@@ -9,7 +9,7 @@ banner:
     label: Ort
     link: contact
 feature:
-  enable: true
+  enable: false
   title: Something You Need To Know
   feature_item:
   - name: Clean Code
@@ -31,7 +31,7 @@ feature:
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
@@ -84,7 +84,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
