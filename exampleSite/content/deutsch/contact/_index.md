@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 subtitle: ''
-description: Dies ist die Metabeschreibung
+description: Kontaktseite für Fragen
 
 ---
 ### Warum Sie uns kontaktieren sollten!
