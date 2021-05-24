@@ -38,7 +38,7 @@ name = "Beschränkungen"
 url = "pricing"
 weight = 3
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact"
 weight = 4
 [[main]]
