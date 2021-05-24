@@ -7,18 +7,6 @@ url = "#"
 [[footer_middle]]
 name = "Beschränkungen"
 url = "pricing"
-[[footer_middle]]
-name = "Platform"
-url = "#"
-[[footer_middle]]
-name = "Features"
-url = "#"
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
 url = "faq"
