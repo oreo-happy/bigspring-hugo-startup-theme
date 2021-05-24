@@ -6,7 +6,7 @@ banner:
     Ayses und Mehmets Feierlichkeiten finden <br>
   button:
     enable: true
-    label: Contact With Us
+    label: Ort
     link: contact
 feature:
   enable: true
