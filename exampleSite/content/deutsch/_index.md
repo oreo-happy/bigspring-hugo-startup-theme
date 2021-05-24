@@ -1,7 +1,7 @@
 ---
 banner:
   title: Herzlich Willkommen auf <br> Ayses und Mehmets Website
-  image: images/banner-art.svg
+  image: "/images/ring-apple.png"
   content: Hier können Sie Informationen wie Ort, Zeit und lokale Beschränkungen für
     Ayses und Mehmets Feierlichkeiten finden <br>
   button:
