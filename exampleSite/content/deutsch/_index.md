@@ -89,10 +89,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Bereit?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Falls Sie Fragen jeglicher Art haben, können Sie das Kontaktformular nutzen.
   button:
     enable: true
     label: Contact Us
