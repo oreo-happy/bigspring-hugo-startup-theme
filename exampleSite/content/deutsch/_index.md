@@ -3,7 +3,7 @@ banner:
   title: Herzlich Willkommen auf <br> Ayses und Mehmets Website
   image: "/images/ring-apple.png"
   content: Hier können Sie Informationen wie Ort, Zeit und lokale Beschränkungen für
-    Ayses und Mehmets Feierlichkeiten finden <br>
+    Ayses und Mehmets Feierlichkeiten finden
   button:
     enable: true
     label: Ort
