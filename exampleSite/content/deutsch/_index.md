@@ -1,7 +1,7 @@
 ---
 banner:
   title: Herzlich Willkommen auf <br> Ayses und Mehmets Website
-  image: "/images/wedding-pic.png"
+  image: "#"
   content: Hier können Sie Informationen wie Ort, Zeit und lokale Beschränkungen für
     Ayses und Mehmets Feierlichkeiten finden
   button:
