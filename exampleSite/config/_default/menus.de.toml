@@ -4,11 +4,8 @@ url = "#"
 [[footer_left]]
 name = "Zeit & Ort"
 url = "#"
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
 [[footer_middle]]
-name = "Pricing"
+name = "Beschränkungen"
 url = "pricing"
 [[footer_middle]]
 name = "Platform"
