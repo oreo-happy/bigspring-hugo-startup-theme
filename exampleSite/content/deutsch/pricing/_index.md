@@ -1,7 +1,7 @@
 ---
-title: Preise
+title: Beschränkungen
 subtitle: ''
-description: Dies ist die Metabeschreibung
+description: Hier sind die aktuellen lokalen Beschränkungen beschrieben
 basic:
   name: Basis Plan
   price: "€49"
