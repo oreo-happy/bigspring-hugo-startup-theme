@@ -34,7 +34,7 @@ name = "Ort & Zeit"
 url = "blog"
 weight = 2
 [[main]]
-name = "Pricing"
+name = "Beschränkungen"
 url = "pricing"
 weight = 3
 [[main]]
