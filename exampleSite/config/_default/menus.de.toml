@@ -30,7 +30,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "Ort"
+name = "Ort & Zeit"
 url = "blog"
 weight = 2
 [[main]]
